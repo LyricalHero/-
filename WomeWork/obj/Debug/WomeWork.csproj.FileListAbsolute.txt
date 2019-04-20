@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\WomeWork\WomeWork\bin\Debug\WomeWork.exe.config
+C:\Users\Admin\Documents\WomeWork\WomeWork\bin\Debug\WomeWork.exe
+C:\Users\Admin\Documents\WomeWork\WomeWork\bin\Debug\WomeWork.pdb
+C:\Users\Admin\Documents\WomeWork\WomeWork\obj\Debug\WomeWork.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\WomeWork\WomeWork\obj\Debug\WomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\WomeWork\WomeWork\obj\Debug\WomeWork.exe
+C:\Users\Admin\Documents\WomeWork\WomeWork\obj\Debug\WomeWork.pdb
